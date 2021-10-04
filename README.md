@@ -1,4 +1,4 @@
-This is from feature 2345:
+This is from feature of feture 2345:
 Feature Changes!
 Second one:
 another conflict happens!
